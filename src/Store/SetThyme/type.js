@@ -1,0 +1,2 @@
+export const SET_STATE_THYME = 'SET_STATE_THYME';
+export const CHECK_STATE_THYME = 'CHECK_STATE_THYME';
